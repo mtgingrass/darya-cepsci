@@ -2,38 +2,40 @@
 title: "About CEPSCI"
 ---
 
-## What is CEPSCI? {.section-title}
+::: {.section-intro}
+Understanding the certification — what it is, who needs it, and why it matters for your project.
+:::
 
-**CEPSCI** stands for **Certified Erosion Prevention and Sediment Control Inspector**. It is a professional certification program administered by **Clemson University Cooperative Extension** on behalf of the South Carolina Department of Environmental Services (SCDES).
+```{=html}
+<div class="service-block">
+  <h2>What is CEPSCI?</h2>
+  <p><strong>CEPSCI</strong> stands for <strong>Certified Erosion Prevention and Sediment Control Inspector</strong>. It is a professional certification program administered by <strong>Clemson University Cooperative Extension</strong> on behalf of the South Carolina Department of Environmental Services (SCDES).</p>
+  <p>CEPSCI-certified inspectors are qualified to conduct compliance inspections under South Carolina's NPDES Construction General Permit — the state and federal requirement governing stormwater discharges from active construction sites.</p>
+</div>
 
-CEPSCI-certified inspectors are qualified to conduct compliance inspections under South Carolina's NPDES Construction General Permit — the state and federal requirement governing stormwater discharges from active construction sites.
+<div class="service-block">
+  <h2>Why is Certification Required?</h2>
+  <p>When rain falls on a construction site, it picks up sediment, debris, and pollutants and carries them into nearby streams, rivers, and wetlands. Unchecked, this stormwater runoff degrades water quality, harms aquatic life, and can cause downstream flooding.</p>
+  <p>To protect South Carolina's waterways, the <strong>NPDES Construction General Permit</strong> requires that any project disturbing <strong>one acre or more</strong> of land:</p>
+  <ul>
+    <li>Develop and implement a Stormwater Pollution Prevention Plan (SWPPP)</li>
+    <li>Install appropriate erosion prevention and sediment control BMPs</li>
+    <li>Have a CEPSCI-certified inspector conduct weekly inspections throughout construction</li>
+  </ul>
+</div>
 
----
-
-## Why is Certification Required? {.section-title}
-
-When rain falls on a construction site, it picks up sediment, debris, and pollutants and carries them into nearby streams, rivers, and wetlands. Unchecked, this stormwater runoff degrades water quality, harms aquatic life, and can cause downstream flooding.
-
-To protect South Carolina's waterways, the **NPDES (National Pollutant Discharge Elimination System) Construction General Permit** requires that any project disturbing **one acre or more** of land:
-
-1. Develop and implement a **Stormwater Pollution Prevention Plan (SWPPP)**
-2. Install appropriate **erosion prevention and sediment control BMPs**
-3. Have a **CEPSCI-certified inspector** conduct **weekly inspections** throughout construction
-
----
-
-## What Does a CEPSCI Inspector Do? {.section-title}
-
-A CEPSCI-certified inspector visits the construction site weekly (or after a qualifying rain event) to:
-
-- Evaluate whether erosion prevention and sediment control measures are properly installed, functioning, and maintained
-- Identify areas of erosion or potential sediment discharge
-- Document deficiencies and recommend corrective actions
-- Prepare and maintain inspection reports required by the permit
-
-Inspectors must complete a Clemson University training course and pass a qualifying exam. Certification is recognized statewide and is required to sign off on NPDES compliance inspections in South Carolina.
-
----
+<div class="service-block">
+  <h2>What Does a CEPSCI Inspector Do?</h2>
+  <p>A CEPSCI-certified inspector visits the construction site weekly (or after a qualifying rain event) to:</p>
+  <ul>
+    <li>Evaluate whether erosion prevention and sediment control measures are properly installed, functioning, and maintained</li>
+    <li>Identify areas of erosion or potential sediment discharge</li>
+    <li>Document deficiencies and recommend corrective actions</li>
+    <li>Prepare and maintain inspection reports required by the permit</li>
+  </ul>
+  <p>Inspectors must complete a Clemson University training course and pass a qualifying exam. Certification is recognized statewide and is required to sign off on NPDES compliance inspections in South Carolina.</p>
+</div>
+```
 
 ## Regulatory Background {.section-title}
 
@@ -43,21 +45,10 @@ Inspectors must complete a Clemson University training course and pass a qualify
 | CEPSCI Certification Program | Clemson University Cooperative Extension |
 | State Permit Oversight | SC Department of Environmental Services (SCDES) |
 
-The CEPSCI program ensures inspectors understand both the regulatory requirements and the practical, on-the-ground knowledge needed to assess erosion and sediment control effectively.
-
----
-
 ```{=html}
-<div class="cta-strip">
+<section class="cta-strip">
   <h2>Work With a Certified Inspector</h2>
-  <p>Darya Dimintiyanova holds a current CEPSCI certification and is ready to support your Upstate SC construction project.</p>
-  <a href="contact.qmd" class="btn-cta">Contact Darya</a>
-</div>
-```
-
-```{=html}
-<div class="page-footer">
-  &copy; 2026 Darya Dimintiyanova &mdash; CEPSCI-Certified Inspector &mdash; Upstate South Carolina<br>
-  <a href="mailto:darya.cepsci@gmail.com">darya.cepsci@gmail.com</a>
-</div>
+  <p>I hold a current CEPSCI certification and am ready to support your Upstate SC construction project.</p>
+  <a href="contact.qmd" class="btn-cta">Get in Touch →</a>
+</section>
 ```

@@ -2,70 +2,62 @@
 title: "Inspection Services"
 ---
 
-Darya Dimintiyanova provides comprehensive erosion prevention and sediment control inspection services for construction sites across Upstate South Carolina, in full compliance with state and federal stormwater regulations.
-
----
-
-## Weekly SWPPP Inspections {.section-title}
-
-South Carolina's NPDES Construction General Permit requires that any land-disturbing activity of one acre or more have a **Stormwater Pollution Prevention Plan (SWPPP)** and that a CEPSCI-certified inspector conduct **weekly site inspections**.
-
-Each inspection covers:
-
-- All disturbed areas and areas that have been graded since the last inspection
-- All erosion prevention and sediment control BMPs (Best Management Practices)
-- Construction material, waste, and chemical storage areas with potential stormwater exposure
-- Areas where stormwater discharges off-site or to a surface water
-
----
-
-## BMP Inspection & Documentation {.section-title}
-
-Proper installation and maintenance of erosion control measures is critical to keeping sediment on-site and out of South Carolina's waterways. Darya inspects and documents:
-
-- Silt fences, inlet protection, and check dams
-- Sediment basins and traps
-- Temporary and permanent seeding, mulching, and soil stabilization
-- Construction entrances and exit stabilization
-
----
-
-## Professional Inspection Reports {.section-title}
-
-Every inspection results in a clear, thorough written report that includes:
-
-- Date, time, weather conditions, and site conditions at time of inspection
-- Identification of any discharges observed
-- Description of any BMPs that need maintenance, repair, or replacement
-- Corrective action recommendations with timelines
-- Photo documentation of existing controls
-
-Reports are delivered digitally to your project manager, GC, and relevant municipal contacts promptly after each site visit.
-
----
-
-## Service Area {.section-title}
-
-**Primary service counties:**
-
-- Greenville County
-- Spartanburg County
-
-**Also serving:** Cherokee, Union, Laurens, Pickens, Anderson, and surrounding Upstate SC counties. Contact Darya to confirm availability for your project location.
-
----
+::: {.section-intro}
+Comprehensive erosion prevention and sediment control inspection services for construction sites across Upstate South Carolina — in full compliance with state and federal stormwater regulations.
+:::
 
 ```{=html}
-<div class="cta-strip">
-  <h2>Get a Quote</h2>
-  <p>Every project is different. Reach out with your site address, acreage, and project timeline and Darya will respond promptly.</p>
-  <a href="mailto:darya.cepsci@gmail.com" class="btn-cta">Email Darya</a>
+<div class="service-block">
+  <h2>Weekly SWPPP Inspections</h2>
+  <p>South Carolina's NPDES Construction General Permit requires that any land-disturbing activity of one acre or more have a <strong>Stormwater Pollution Prevention Plan (SWPPP)</strong> and that a CEPSCI-certified inspector conduct weekly site inspections.</p>
+  <p>Each inspection covers:</p>
+  <ul>
+    <li>All disturbed areas and areas graded since the last inspection</li>
+    <li>All erosion prevention and sediment control BMPs (Best Management Practices)</li>
+    <li>Construction material, waste, and chemical storage areas with potential stormwater exposure</li>
+    <li>Areas where stormwater discharges off-site or to a surface water</li>
+  </ul>
+</div>
+
+<div class="service-block">
+  <h2>BMP Inspection &amp; Documentation</h2>
+  <p>Proper installation and maintenance of erosion control measures is critical to keeping sediment on-site and out of South Carolina's waterways. I inspect and document:</p>
+  <ul>
+    <li>Silt fences, inlet protection, and check dams</li>
+    <li>Sediment basins and traps</li>
+    <li>Temporary and permanent seeding, mulching, and soil stabilization</li>
+    <li>Construction entrances and exit stabilization</li>
+  </ul>
+</div>
+
+<div class="service-block">
+  <h2>Professional Inspection Reports</h2>
+  <p>Every inspection produces a clear, thorough written report including:</p>
+  <ul>
+    <li>Date, time, weather conditions, and site conditions at time of inspection</li>
+    <li>Identification of any discharges observed</li>
+    <li>Description of any BMPs that need maintenance, repair, or replacement</li>
+    <li>Corrective action recommendations with timelines</li>
+    <li>Photo documentation of existing controls</li>
+  </ul>
+  <p>Reports are delivered digitally to your project manager, GC, and relevant municipal contacts promptly after each site visit.</p>
+</div>
+
+<div class="service-block">
+  <h2>Service Area</h2>
+  <p><strong>Primary service counties:</strong></p>
+  <ul>
+    <li>Anderson County</li>
+    <li>Pickens County</li>
+  </ul>
+  <p><strong>Also serving:</strong> Greenville, Spartanburg, Oconee, and surrounding Upstate SC counties. Contact me to confirm availability for your project location.</p>
 </div>
 ```
 
 ```{=html}
-<div class="page-footer">
-  &copy; 2026 Darya Dimintiyanova &mdash; CEPSCI-Certified Inspector &mdash; Upstate South Carolina<br>
-  <a href="mailto:darya.cepsci@gmail.com">darya.cepsci@gmail.com</a>
-</div>
+<section class="cta-strip">
+  <h2>Get a Quote</h2>
+  <p>Every project is different. Reach out with your site address, acreage, and project timeline and I'll respond promptly.</p>
+  <a href="mailto:darya.cepsci@gmail.com" class="btn-cta">Email Darya →</a>
+</section>
 ```

@@ -7,6 +7,9 @@ website:
   description: "Certified Erosion Prevention and Sediment Control Inspections — Upstate South Carolina"
   favicon: ""
   navbar:
+    background: dark
+    pinned: true
+    collapse-below: lg
     left:
       - href: index.qmd
         text: Home
@@ -17,11 +20,22 @@ website:
       - href: contact.qmd
         text: Contact
     right:
-      - text: "darya.cepsci@gmail.com"
+      - text: "Email"
         href: "mailto:darya.cepsci@gmail.com"
+  page-footer:
+    background: dark
+    left: "© 2026 Darya Dimintiyanova — CEPSCI-Certified Inspector"
+    right: "[darya.cepsci@gmail.com](mailto:darya.cepsci@gmail.com)"
 
 format:
   html:
-    theme: flatly
+    theme: cosmo
     css: styles.css
     toc: false
+    page-layout: full
+    include-in-header:
+      text: |
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">

@@ -1,47 +1,38 @@
 ---
-title: "Contact"
+title: "Get in Touch"
 ---
 
-## Get in Touch {.section-title}
-
-Darya is available to discuss your project, answer questions about CEPSCI inspection requirements, or provide a quote for ongoing weekly inspections.
+::: {.section-intro}
+Available to discuss your project, answer questions about CEPSCI inspection requirements, or provide a quote for ongoing weekly inspections.
+:::
 
 ```{=html}
 <div class="contact-card">
   <h3>Darya Dimintiyanova</h3>
-  <p>CEPSCI-Certified Inspector<br>Upstate South Carolina</p>
+  <p class="subtitle">CEPSCI-Certified Inspector · Upstate South Carolina</p>
   <hr>
-  <p>
-    <strong>Email:</strong><br>
-    <a href="mailto:darya.cepsci@gmail.com">darya.cepsci@gmail.com</a>
-  </p>
-  <p style="color:#666; font-size:0.9rem; margin-top:1rem;">
-    Serving Greenville County, Spartanburg County,<br>and surrounding Upstate SC counties
-  </p>
+  <a href="mailto:darya.cepsci@gmail.com" class="email-link">darya.cepsci@gmail.com</a>
+  <div class="service-area">
+    Serving Anderson County, Pickens County,<br>and surrounding Upstate SC counties.
+  </div>
 </div>
 ```
 
----
-
-## What to Include in Your Message {.section-title}
-
-To get the fastest response and an accurate quote, please include:
-
-- **Project location** — county and municipality
-- **Site acreage** — total disturbed area
-- **Project start date** — when inspection services are needed
-- **Project duration** — estimated end date or number of months
-- **Permit status** — whether your NPDES permit is already in place
-
----
-
-## Response Time {.section-title}
-
-Darya typically responds to inquiries within **one business day**. For urgent compliance needs, please indicate that in the subject line of your email.
-
 ```{=html}
-<div class="page-footer">
-  &copy; 2026 Darya Dimintiyanova &mdash; CEPSCI-Certified Inspector &mdash; Upstate South Carolina<br>
-  <a href="mailto:darya.cepsci@gmail.com">darya.cepsci@gmail.com</a>
+<div class="service-block">
+  <h2>What to Include in Your Message</h2>
+  <p>To get the fastest response and an accurate quote, please include:</p>
+  <ul>
+    <li><strong>Project location</strong> — county and municipality</li>
+    <li><strong>Site acreage</strong> — total disturbed area</li>
+    <li><strong>Project start date</strong> — when inspection services are needed</li>
+    <li><strong>Project duration</strong> — estimated end date or number of months</li>
+    <li><strong>Permit status</strong> — whether your NPDES permit is already in place</li>
+  </ul>
+</div>
+
+<div class="service-block">
+  <h2>Response Time</h2>
+  <p>I typically respond to inquiries within <strong>one business day</strong>. For urgent compliance needs, please indicate that in the subject line of your email.</p>
 </div>
 ```
