@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Darya Dimintiyanova | CEPSCI Inspector"
+  description: "Certified Erosion Prevention and Sediment Control Inspections — Upstate South Carolina"
+  favicon: ""
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: services.qmd
+        text: Services
+      - href: about.qmd
+        text: About CEPSCI
+      - href: contact.qmd
+        text: Contact
+    right:
+      - text: "darya.cepsci@gmail.com"
+        href: "mailto:darya.cepsci@gmail.com"
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false

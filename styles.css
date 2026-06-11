@@ -1,0 +1,150 @@
+/* Brand colors — earth/environmental greens */
+:root {
+  --brand-green: #2d6a4f;
+  --brand-green-light: #52b788;
+  --brand-tan: #f4ede4;
+  --brand-dark: #1b3a2d;
+}
+
+/* Navbar */
+.navbar {
+  background-color: var(--brand-dark) !important;
+}
+.navbar-brand, .navbar .nav-link {
+  color: #fff !important;
+}
+.navbar .nav-link:hover {
+  color: var(--brand-green-light) !important;
+}
+
+/* Hero section */
+.hero {
+  background-color: var(--brand-green);
+  color: #fff;
+  padding: 5rem 2rem;
+  text-align: center;
+}
+.hero h1 {
+  font-size: 2.6rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+.hero p {
+  font-size: 1.2rem;
+  max-width: 640px;
+  margin: 0 auto 2rem;
+  opacity: 0.92;
+}
+.hero .btn-hero {
+  background: #fff;
+  color: var(--brand-green);
+  font-weight: 600;
+  padding: 0.75rem 2rem;
+  border-radius: 4px;
+  text-decoration: none;
+  display: inline-block;
+  margin: 0.3rem;
+  transition: opacity 0.2s;
+}
+.hero .btn-hero:hover {
+  opacity: 0.85;
+}
+.hero .btn-hero-outline {
+  background: transparent;
+  color: #fff;
+  border: 2px solid #fff;
+  font-weight: 600;
+  padding: 0.75rem 2rem;
+  border-radius: 4px;
+  text-decoration: none;
+  display: inline-block;
+  margin: 0.3rem;
+  transition: opacity 0.2s;
+}
+.hero .btn-hero-outline:hover {
+  opacity: 0.8;
+}
+
+/* Feature cards */
+.feature-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  margin: 2.5rem 0;
+}
+.feature-card {
+  background: var(--brand-tan);
+  border-left: 4px solid var(--brand-green);
+  border-radius: 6px;
+  padding: 1.5rem;
+}
+.feature-card h3 {
+  color: var(--brand-dark);
+  font-size: 1.05rem;
+  margin-bottom: 0.5rem;
+}
+.feature-card p {
+  font-size: 0.92rem;
+  color: #444;
+  margin: 0;
+}
+
+/* Section headings */
+h2.section-title {
+  color: var(--brand-dark);
+  border-bottom: 3px solid var(--brand-green-light);
+  padding-bottom: 0.4rem;
+  margin-top: 2.5rem;
+}
+
+/* CTA strip */
+.cta-strip {
+  background: var(--brand-tan);
+  border-radius: 8px;
+  padding: 2.5rem;
+  text-align: center;
+  margin: 3rem 0;
+}
+.cta-strip h2 {
+  color: var(--brand-dark);
+  margin-bottom: 0.75rem;
+}
+.cta-strip a.btn-cta {
+  background: var(--brand-green);
+  color: #fff;
+  font-weight: 600;
+  padding: 0.75rem 2rem;
+  border-radius: 4px;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 0.75rem;
+}
+.cta-strip a.btn-cta:hover {
+  background: var(--brand-dark);
+}
+
+/* Contact card */
+.contact-card {
+  max-width: 500px;
+  margin: 2rem auto;
+  background: var(--brand-tan);
+  border-radius: 8px;
+  padding: 2rem;
+  text-align: center;
+}
+.contact-card a {
+  color: var(--brand-green);
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+/* Footer */
+.page-footer {
+  background: var(--brand-dark);
+  color: #ccc;
+  padding: 1.5rem;
+  text-align: center;
+  font-size: 0.85rem;
+  margin-top: 4rem;
+}
+.page-footer a { color: var(--brand-green-light); }

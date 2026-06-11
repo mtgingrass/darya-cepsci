@@ -1,0 +1,59 @@
+---
+title: ""
+pagetitle: "Darya Dimintiyanova | CEPSCI Inspector — Upstate SC"
+---
+
+```{=html}
+<div class="hero">
+  <h1>Certified Erosion &amp; Sediment Control Inspections</h1>
+  <p>Serving Greenville, Spartanburg, and surrounding Upstate South Carolina counties — keeping your construction site compliant and your waterways clean.</p>
+  <a href="services.qmd" class="btn-hero">Our Services</a>
+  <a href="contact.qmd" class="btn-hero-outline">Get in Touch</a>
+</div>
+```
+
+## Why CEPSCI Inspections Matter {.section-title}
+
+South Carolina's NPDES Construction General Permit requires active construction sites to conduct regular stormwater inspections by a **CEPSCI-certified inspector**. Failing to comply can result in fines, stop-work orders, and environmental damage.
+
+Darya Dimintiyanova is a Clemson University CEPSCI-certified inspector providing professional, reliable, and thorough erosion prevention and sediment control inspections across Upstate South Carolina.
+
+---
+
+```{=html}
+<div class="feature-grid">
+  <div class="feature-card">
+    <h3>Weekly SWPPP Inspections</h3>
+    <p>Mandatory weekly site visits in accordance with the NPDES Construction General Permit, fully documented with written reports.</p>
+  </div>
+  <div class="feature-card">
+    <h3>BMP Monitoring</h3>
+    <p>Photo-documented inspection of Erosion Control Best Management Practices throughout the life of your project.</p>
+  </div>
+  <div class="feature-card">
+    <h3>Compliance Reports</h3>
+    <p>Professional reports delivered digitally to your project team and local municipal authorities — on time, every time.</p>
+  </div>
+  <div class="feature-card">
+    <h3>Upstate SC Coverage</h3>
+    <p>Serving Greenville County, Spartanburg County, and surrounding Upstate South Carolina communities.</p>
+  </div>
+</div>
+```
+
+---
+
+```{=html}
+<div class="cta-strip">
+  <h2>Ready to schedule an inspection?</h2>
+  <p>Contact Darya today to discuss your project and get a quote.</p>
+  <a href="mailto:darya.cepsci@gmail.com" class="btn-cta">Email Darya</a>
+</div>
+```
+
+```{=html}
+<div class="page-footer">
+  &copy; 2026 Darya Dimintiyanova &mdash; CEPSCI-Certified Inspector &mdash; Upstate South Carolina<br>
+  <a href="mailto:darya.cepsci@gmail.com">darya.cepsci@gmail.com</a>
+</div>
+```
