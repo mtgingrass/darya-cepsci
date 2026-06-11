@@ -1,5 +1,5 @@
 [build]
-  command = "quarto render"
+  command = "bash build.sh"
   publish = "_site"
 
 [build.environment]
